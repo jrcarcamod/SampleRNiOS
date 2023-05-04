@@ -1,0 +1,34 @@
+{
+  "name": "react-native-iu-library",
+  "title": "React Native Iu Library",
+  "version": "4.14.3",
+  "description": "DR SDK Android 4.14.3 and iOS 4.14.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-iu-library.git",
+    "baseUrl": "https://github.com/github_account/react-native-iu-library"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Vinay",
+    "email": "vinay.rao@digitalreef.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
+
